@@ -1,3 +1,6 @@
+/**
+ * Descrption: Class which reprsent eploye in order to print information about there salllary
+ */
 public class Employee {
     private String firstName = "Pero";
     private String lastName = "Peric";
